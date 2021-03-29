@@ -1,0 +1,21 @@
+{
+  "name": "barcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "barcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bm": "^0.1.1",
+    "body-parser": "^1.15.2",
+    "bwip": "^0.7.1",
+    "bwip-js": "^1.0.5",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "gm": "^1.23.0",
+    "png-to-jpeg": "^1.0.1"
+  }
+}
